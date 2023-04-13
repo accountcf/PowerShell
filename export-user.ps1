@@ -1,0 +1,1 @@
+Get-AdGroupMember -identity "Group_gdcnkvpb-1-400796282" | select name | Export-csv -path C:\user\members.csv -NoTypeInformation
