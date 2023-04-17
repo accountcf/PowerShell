@@ -1,1 +1,0 @@
-Get-AdGroupMember -identity "Administrators" | select name | Export-csv -path C:\user\members.csv -NoTypeInformation
